@@ -26,7 +26,7 @@ This project is not a complete game but rather an exploration of specific game m
 
 - Clone this repository to your local machine:
 
-- git clone 
+- git clone https://github.com/NickP599/Ball-Blast-Clone-Game.git
 
 - Open the project in Unity (version 6000 or later).
 
