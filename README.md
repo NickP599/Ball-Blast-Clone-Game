@@ -4,7 +4,7 @@
 
 This is a **learning project** created to experiment with and study the mechanics of the game Ball Blast. The main goal is to practice game development skills by recreating and modifying key elements of the original game.
 
--**What is Ball Blast?**
+**What is Ball Blast?**
 
 Ball Blast is a popular mobile arcade game where the player controls a cannon that shoots falling balls. The balls split into smaller pieces when hit, and the player must avoid getting crushed while destroying them.
 
