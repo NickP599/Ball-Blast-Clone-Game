@@ -28,7 +28,7 @@ This project is not a complete game but rather an exploration of specific game m
 
 - git clone https://github.com/NickP599/Ball-Blast-Clone-Game.git
 
-- Open the project in Unity (version 6000 or later).
+- Open the project in Unity (version 6000.0.32f1 or later).
 
 - Press the "Play" button in the Unity editor to run the scene.
 
